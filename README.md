@@ -39,7 +39,10 @@
   <li>android studio</li>
   <li>cualquier texto</li>
 </0l>
-
+☑️ registro de usuarios <br>
+✔️ login <br>
+✅ app para sumar
+🔘 app sumar
 >[!WARNING]
 ><h2>Funcionalidades</h2>
 
